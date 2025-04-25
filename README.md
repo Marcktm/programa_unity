@@ -1,7 +1,7 @@
 
 # Curso de Unity y Programación en C#
 
-## RECOMENDACIÓN: Si bien tienen la guia les recomiendo que usen el juego con el que aprendieron Unity y vayan despacio recuerden que son niños y jovenes, no sean muy tecnicos y usen palabras tecnicas como vamos a realizas nuestro primer script sin antes hacer analogias sobre que es un programa pricipal y porque se suelle llamar script.
+## RECOMENDACIÓN: Si bien tienen la guía, les recomiendo que usen el juego con el que aprendieron Unity y vayan despacio recuerden que son niños y jovenes, no sean muy tecnicos y usen palabras tecnicas como vamos a realizas nuestro primer script sin antes hacer analogias sobre que es un programa pricipal y porque se suelle llamar script.
 
 ## 🔷 Módulo 1: Fundamentos de Unity y programación en C#
 **Objetivo:** Asegurar que todos los estudiantes comprendan la lógica básica de Unity y la programación.
